@@ -1,3 +1,10 @@
+---
+title: Bulma Clean Theme
+subtitle: This is the demo site for Bulma Clean Theme
+show_sidebar: false
+menubar: menu
+---
+
 ## Welcome to GitHub Pages2
 
 You can use the [editor on GitHub](https://github.com/MangoFridge/MangoFridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
