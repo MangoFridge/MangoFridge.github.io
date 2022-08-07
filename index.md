@@ -46,7 +46,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
+
+Check temperature raspberry pi OS:
 ```
-Check temperature:
 vcgencmd measure_temp
 ```
