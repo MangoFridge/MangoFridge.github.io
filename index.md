@@ -64,3 +64,6 @@ Testcases for raspberry pi cluster
 5. separation of ingestion and consumption / support for multiple workloads
 6. Semi-structured support
 7. Cost effective maintenance
+
+#Data modeling
+https://www.youtube.com/channel/UC64r4CA4uVCvMDZb2tWJAgw/videos
