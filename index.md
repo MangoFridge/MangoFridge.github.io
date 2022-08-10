@@ -56,3 +56,11 @@ vcgencmd measure_temp
 
 Testcases for raspberry pi cluster
 - https://topofminds.se/wp/wp-content/uploads/ToM-Report-series-Data-warehouse-Snowflake-and-Synapse-comparison-sec.pdf
+
+1. Data loading
+2. ETL processing
+3. Scaling for performance
+4. Data visualization & concurrency testing
+5. separation of ingestion and consumption / support for multiple workloads
+6. Semi-structured support
+7. Cost effective maintenance
