@@ -52,7 +52,7 @@ Check temperature raspberry pi OS:
 vcgencmd measure_temp
 ```
 
-#Ideas
+# Ideas
 
 Testcases for raspberry pi cluster
 - https://topofminds.se/wp/wp-content/uploads/ToM-Report-series-Data-warehouse-Snowflake-and-Synapse-comparison-sec.pdf
@@ -65,5 +65,5 @@ Testcases for raspberry pi cluster
 6. Semi-structured support
 7. Cost effective maintenance
 
-#Data modeling
+# Data modeling
 https://www.youtube.com/channel/UC64r4CA4uVCvMDZb2tWJAgw/videos
